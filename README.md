@@ -7,7 +7,7 @@ I’m curious about programming and everything in between. I like to experiment 
 
 ---
 
-## 🔥 Fav Toys
+## Fav Toys
 <p align='left'>
 <img src="./assets/java.svg" width="75" height="75"/>
 <img src="./assets/kotlin.svg" width="63" height="70"/>

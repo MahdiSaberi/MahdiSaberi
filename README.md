@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 I’m curious about programming and everything in between. I like to experiment with different stacks, and hopefully, I’ll get to share more open-source projects here. For now, most of my work is stuck in local company repos.
 
 ---

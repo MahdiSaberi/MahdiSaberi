@@ -9,9 +9,11 @@ I’m curious about programming and everything in between. I like to experiment 
 
 ## Fav Toys
 <p align='left'>
-<img src="./assets/java.svg" width="75" height="75"/>
-<img src="./assets/kotlin.svg" width="63" height="70"/>
-<img src="./assets/python.svg" width="75" height="75"/>
+<code><img height="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
+  <code><img height="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg?raw=true"></code>
+  <code><img height="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true"></code>
+  <code><img height="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg?raw=true"></code>
+  <code><img height="48" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg?raw=true"></code>
 </p>
 
 
